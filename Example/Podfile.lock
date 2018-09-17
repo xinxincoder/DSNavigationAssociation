@@ -1,0 +1,16 @@
+PODS:
+  - DSNavigationAssociation (1.0.0)
+
+DEPENDENCIES:
+  - DSNavigationAssociation (from `../`)
+
+EXTERNAL SOURCES:
+  DSNavigationAssociation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSNavigationAssociation: 46b22d9a03705ded92a5ed863ddc1a029d2932f3
+
+PODFILE CHECKSUM: 4c0664a5641a5cc90365481a16e60ce30cb916ee
+
+COCOAPODS: 1.5.3

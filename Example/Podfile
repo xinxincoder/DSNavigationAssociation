@@ -1,0 +1,11 @@
+use_frameworks!
+platform:ios, '9.3'
+target 'DSNavigationAssociation_Example' do
+  pod 'DSNavigationAssociation', :path => '../'
+
+  target 'DSNavigationAssociation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

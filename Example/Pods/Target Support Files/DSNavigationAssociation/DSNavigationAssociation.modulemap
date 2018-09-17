@@ -1,0 +1,6 @@
+framework module DSNavigationAssociation {
+  umbrella header "DSNavigationAssociation-umbrella.h"
+
+  export *
+  module * { export * }
+}
